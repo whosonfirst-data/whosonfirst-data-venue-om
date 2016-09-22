@@ -1,0 +1,87 @@
+{
+  "id": 1108703009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-63.60127,44.6442256,-63.60127,44.6442256",
+    "geom:latitude":44.644226,
+    "geom:longitude":-63.60127,
+    "iso:country":"OM",
+    "mz:hierarchy_label":1,
+    "sg:address":"6436 Quinpool Road skoon",
+    "sg:city":"Halifax",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"B3L 1A8",
+    "sg:province":"AL",
+    "sg:tags":[
+        "advertising",
+        "branding",
+        "copywriting",
+        "design",
+        "illustration",
+        "marketing",
+        "media-strategy",
+        "signage-design",
+        "web-development",
+        "web-design"
+    ],
+    "sg:website":"http://www.burkedesign.ca",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633041,
+        85875077,
+        85682075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bR8cEzay7WwEalKovOgSs_44.644226_-63.601270@1308163242"
+    },
+    "wof:country":"OM",
+    "wof:created":1474570903,
+    "wof:geomhash":"6079c32b4a23db1fcb5f76bc015a0699",
+    "wof:hierarchy":[
+        {
+            "country_id":85633041,
+            "neighbourhood_id":85875077,
+            "region_id":85682075,
+            "venue_id":1108703009
+        }
+    ],
+    "wof:id":1108703009,
+    "wof:lastmodified":1474570903,
+    "wof:name":"Burke & Burke Design",
+    "wof:parent_id":85875077,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-om",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advertising",
+        "branding",
+        "copywriting",
+        "design",
+        "illustration",
+        "marketing",
+        "media-strategy",
+        "signage-design",
+        "web-development",
+        "web-design"
+    ]
+},
+  "bbox": [
+    -63.60127,
+    44.6442256,
+    -63.60127,
+    44.6442256
+],
+  "geometry": {"coordinates":[-63.60127,44.6442256],"type":"Point"}
+}
